@@ -13,7 +13,7 @@ A transparent container to store what is valuable
 
 ---
 
-**Waarom Sleeve?**
+**WAAROM SLEEVE?**  
 ⚡ Razendsnel — Gemakkelijk en snel exporteren, zonder Lightroom te openen  
 🔒 Toekomstbestendig — DNG is een open standaard, dus je archief blijft altijd leesbaar  
 📦 Orde in de chaos — van verspreide catalogussen naar één overzichtelijk archief  
